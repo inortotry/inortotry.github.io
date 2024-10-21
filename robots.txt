@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inortotry.github.io/inortotry.txt.gz
+Sitemap: https://inortotry.github.io/app/inortotry.txt.gz
+Sitemap: https://inortotry.github.io/assets/inortotry.txt.gz
+Sitemap: https://inortotry.github.io/css/inortotry.txt.gz
+Sitemap: https://inortotry.github.io/includes/inortotry.txt.gz
+Sitemap: https://inortotry.github.io/item/inortotry.txt.gz
+Sitemap: https://inortotry.github.io/src/inortotry.txt.gz
